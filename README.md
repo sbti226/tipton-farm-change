@@ -9,4 +9,4 @@ This image shows (somewhat) the change on Tipton Farm between 2012 and 2022. Due
 
 [Link to high-resolution version](Layout.pdf)     
 
-
+Map created by sbti226 for GEO 409, Spring 2023, University of Kentucky, Department of Geography. Data acquired from kyfromabove.ky.gov.
